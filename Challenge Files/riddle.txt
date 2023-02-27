@@ -1,0 +1,4 @@
+all you have is the given picture , do you know the people in it ?
+find the flag!
+
+Afikoman{singername_songname}
